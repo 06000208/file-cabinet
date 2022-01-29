@@ -1,4 +1,4 @@
-# motds
+# [file cabinet](https://github.com/06000208/file-cabinet) / motds
 
 Just a lot of motds in a txt file. Motd length and humor varies, most are references, puns, or nonsense.
 

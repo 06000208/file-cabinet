@@ -1,0 +1,27 @@
+# npm, pnpm, jspm
+# for adding yarn see https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
+node_modules/
+.node_modules/
+jspm_packages/
+.npm
+npm-debug.log*
+.pnpm-debug.log*
+
+# eslint
+.eslintcache
+
+# typescript
+*.tsbuildinfo
+
+# operating systems
+.DS_STORE
+Thumbs.db
+
+# editors
+.vscode
+.vscode-test
+*.iml
+.idea
+
+# project
+dist/

@@ -35,8 +35,8 @@ Thumbs.db
 
 # project
 # modify these for your respective projects
-dist/
-build/
+docs/
+tests/
 *.log*
 *.env
 *.env.test
